@@ -1,0 +1,106 @@
+body {
+    width: 1600px;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+}
+.gln-phon {
+    height: 1200px;
+    background: linear-gradient(to top, #C75495 20%, #DE3A08 70%);
+}
+.micro-phone {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 899px;
+    border-radius: 30px;
+    border: 30px solid #ffffff;
+    margin-left: 42px;
+}
+.micro-phone {
+    margin-top: -1095px;
+}
+.img-logo {
+    margin-top: 50px;
+    margin-left: 51px;
+}
+.slk {
+    margin-left: 350px;
+    margin-top: -35px;
+}
+.slk-menu {
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    color: #454545;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 155.5%;
+    margin-left: 65px;
+}
+.okean {
+    width: 770px;
+    margin-left: 700px;
+    margin-top: -115px;
+}
+.kit {
+    padding-left: 685px;
+    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+}
+.slk-menu:hover {
+    text-decoration: underline;
+}
+.crab {
+    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+    margin-top: -750px;
+    margin-left: -30px;
+}
+.grafick {
+    margin-top: -715px;
+    margin-left: -30px;
+}
+.ss {
+    margin-top: -730px;
+    margin-left: 250px;
+    font-family: 'Oswald', sans-serif;
+    width: 447px;
+    height: 144px;
+    font-size: 56px;
+}
+.pp {
+    width: 447px;
+    height: 102px;
+    font-family: 'Oswald', sans-serif;
+    color: #454545;
+    font-size: 20px;
+    margin-top: -20px;
+    margin-left: 250px;
+}
+.but {
+    
+    color: #ffffff;
+    padding: 15px 45px;
+    background: radial-gradient(255.8% 457.4% at 88.45% 24.64%, #C27FCF 0%, #0368FF 100%);
+    border-radius: 18px;
+    border: 1px solid ;
+}
+.bb {
+    margin-left: 250px;
+}
+.buti {
+    color: #ffffff;
+    padding: 15px 45px;
+    background: radial-gradient(255.8% 457.4% at 88.45% 24.64%, #C27FCF 0%, #0368FF 100%);
+    border-radius: 18px;
+    border: 1px solid ;
+}
+.tt {
+    color: #ffffff;
+    text-decoration: none;
+}
+.tt:hover {
+    text-decoration: underline;
+}
